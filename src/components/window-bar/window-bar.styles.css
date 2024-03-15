@@ -1,0 +1,17 @@
+.window-bar {
+  background-color: rgb(40, 40, 255);
+  padding: 10px 10px;
+  display: flex;
+  align-items: center;
+  border-radius: 15px 15px 0 0;
+}
+
+.window-bar img {
+    width: 25px;
+    margin-right: 20px;
+}
+
+.window-bar p {
+  color: white;
+  display: inline-block;
+}

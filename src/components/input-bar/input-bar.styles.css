@@ -1,0 +1,24 @@
+.input-container {
+    width: 100%;
+}
+
+.input-container form {
+    width: 100%;
+    display: flex;
+}
+
+.chatbot-input {
+    height: 40px;
+    width: 645px;
+    border: none;
+    padding: 5px 10px;
+    flex-grow: 1;
+}
+.chatbot-input:focus {
+    outline: none;
+}
+.send-btn {
+    height: 40px;
+    width: 50px;
+    border: none;
+}

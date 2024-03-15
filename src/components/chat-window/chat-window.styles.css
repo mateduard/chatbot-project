@@ -1,0 +1,12 @@
+.chat-window {
+  width: 100%;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  overflow-y: scroll;
+}
+
+.welcome-message {
+  margin-left: 30px;
+}

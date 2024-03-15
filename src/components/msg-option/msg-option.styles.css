@@ -1,0 +1,18 @@
+.msg-option {
+    padding: 7px 5px;
+    margin: 3px 0;
+    text-align: center;
+    min-width: 450px;
+    background-color: white;
+}
+
+.msg-option.clickable{
+    cursor: pointer;
+}
+
+.msg-option:first-child {
+    border-radius: 10px 10px 0 0;
+}
+.msg-option:last-child {
+    border-radius: 0 0 10px 10px;
+}
